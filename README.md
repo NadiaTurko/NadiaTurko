@@ -21,7 +21,11 @@ A young and motivated frontend developer with solid knowledge in JavaScript and 
 </p>
 
 ### Codewars
-![Codewars](https://github.r2v.ch/codewars?user=NadiaTurko&stroke=green)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=NadiaTurko" />
+    </a>
+</p>
 
 ### Socials
 
