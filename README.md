@@ -6,7 +6,7 @@ Front-end (React) developer
 
 A young and motivated frontend developer with solid knowledge in JavaScript and React, acquired through courses at SoftServe and Hillel IT School. While lacking commercial experience, I actively engage in pet projects to apply my skills in practical scenarios. Passionate about crafting intuitive and functional user interfaces, I strive to continuously enhance my skills and knowledge in web development. I am seeking opportunities for professional growth and am ready to contribute to a team where I can make an impact and grow alongside the company.
 
-🌍 I'm based in Lviv, Ukraine
+🌍 I'm based in Lviv, Ukraine. 
 🖥️ See my portfolio at [My portfolio](http://nadiaturko.github.io/portfolio/)
 📫 You can contact me at [nadrom0211@gmail.com](mailto:nadrom0211@gmail.com)
 🌱 I'm learning TypeScript
