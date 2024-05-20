@@ -31,7 +31,7 @@ A young and motivated frontend developer with solid knowledge in JavaScript and 
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/nadiia-romanchuk-42930630a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://t.me/nadrom0211" target="blank"><img align="center" src="(https://github.com/Automattic/social-logos/blob/98daee5f3e1c028b522c6c54357d4b53c1d69b14/svg-min/telegram.svg)" alt="4214976" height="30" width="40" /></a>
+<a href="https://t.me/nadrom0211" target="blank"><img align="center" src="https://github.com/Automattic/social-logos/blob/98daee5f3e1c028b522c6c54357d4b53c1d69b14/svg-min/telegram.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <p align="left"> <a href="https://t.me/nadrom0211" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
