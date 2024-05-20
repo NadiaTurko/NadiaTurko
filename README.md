@@ -7,7 +7,6 @@ Front-end (React) developer
 A young and motivated frontend developer with solid knowledge in JavaScript and React, acquired through courses at SoftServe and Hillel IT School. While lacking commercial experience, I actively engage in pet projects to apply my skills in practical scenarios. Passionate about crafting intuitive and functional user interfaces, I strive to continuously enhance my skills and knowledge in web development. I am seeking opportunities for professional growth and am ready to contribute to a team where I can make an impact and grow alongside the company.
 
 * 🖥️  See :paperclip: [My portfolio](http://nadiaturko.github.io/portfolio/) at 
-:paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
 * ✉️  You can contact me at :email: nadrom0211@gmail.com
 <p>🌱 I'm learning TypeScript</p>
 <p>👨‍💻 I'm open to collaborating on projects involving modern front-end development, especially those utilizing React.js. I'm particularly interested in: - Building user-friendly, responsive web applications. - Developing reusable React components and UI libraries. - Integrating RESTful APIs and working with back-end developers to create seamless user experiences. - Participating in open-source projects to contribute to the developer community. - Exploring new technologies and tools in the JavaScript ecosystem.</p>
