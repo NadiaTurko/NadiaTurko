@@ -21,11 +21,7 @@ A young and motivated frontend developer with solid knowledge in JavaScript and 
 </p>
 
 ### Codewars
-<p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=NadiaTurko" />
-    </a>
-</p>
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?NadiaTurko=ignacio-cuadra&theme=hacker)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ### Socials
 
