@@ -22,7 +22,7 @@ A young and motivated frontend developer with solid knowledge in JavaScript and 
 
 ### Codewars
 
-<p alight="left"><img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=NadiaTurko&theme=hacker" alt = "NadiaTurko"/></p>
+<p alight="left"><img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=NadiaTurko&theme=halloween" alt = "NadiaTurko"/></p>
 
 ### Socials
 
