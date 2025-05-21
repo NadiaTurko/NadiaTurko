@@ -3,8 +3,14 @@ Hi 👋 My name is Nadia
 
 Front-end (React) developer
 ---------------------------
+I'm a young and motivated Frontend Developer with over 10 months of hands-on commercial experience working with HTML, CSS, JavaScript, and React. In my previous role, I worked on layout development based on Figma designs, improving existing codebases, and handling parsing tasks and ready-made integrations.
 
-A young and motivated frontend developer with solid knowledge in JavaScript and React, acquired through courses at SoftServe and Hillel IT School. While lacking commercial experience, I actively engage in pet projects to apply my skills in practical scenarios. Passionate about crafting intuitive and functional user interfaces, I strive to continuously enhance my skills and knowledge in web development. I am seeking opportunities for professional growth and am ready to contribute to a team where I can make an impact and grow alongside the company.
+💡 Outside of work, I’m actively learning TypeScript, building a pet project, and preparing for interviews to take the next step in my career.
+
+I'm passionate about building clean, user-friendly interfaces, collaborating in teams, and contributing to projects that value quality, growth, and open communication.
+
+🔍 I’m now looking for an opportunity to join a company where I can learn from more experienced developers, work on real-world challenges, and deepen my understanding of front-end architecture.
+
 
 * 🖥️  See :paperclip: [My portfolio](http://nadiaturko.github.io/cv) at 
 * ✉️  You can contact me at :email: nadrom0211@gmail.com
