@@ -11,7 +11,7 @@ I'm passionate about building clean, user-friendly interfaces, collaborating in 
 
 🔍 I’m now looking for an opportunity to join a company where I can learn from more experienced developers, work on real-world challenges, and deepen my understanding of front-end architecture.
 
-
+* 🖥️  See :paperclip: [My portfolio](http://nadiaturko.github.io/portfolio) at 
 * ✉️  You can contact me at :email: nadrom0211@gmail.com
 <p>🌱 I'm learning TypeScript</p>
 <p>👨‍💻 I'm open to collaborating on projects involving modern front-end development, especially those utilizing React.js. I'm particularly interested in: - Building user-friendly, responsive web applications. - Developing reusable React components and UI libraries. - Integrating RESTful APIs and working with back-end developers to create seamless user experiences. - Participating in open-source projects to contribute to the developer community. - Exploring new technologies and tools in the JavaScript ecosystem.</p>
